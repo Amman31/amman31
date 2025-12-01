@@ -78,13 +78,4 @@ I’m passionate about developing intelligent, efficient, and scalable systems�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
-</div>
-
----
-
 <h2 align="center">✨ Thanks for stopping by! ✨</h2>
