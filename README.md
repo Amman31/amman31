@@ -2,8 +2,8 @@
 
 <p align="left">
 I am currently pursuing my <strong>Master's degree in Software Engineering and Embedded Systems</strong>.  
-My work and interests span across <strong>Web Development</strong>, <strong>Robotics</strong>, <strong>Embedded Programming</strong>, and integrating <strong>AI/ML into modern applications and robotic systems</strong>.  
-I’m passionate about developing intelligent, efficient, and scalable systems—whether it’s a full-stack web solution, microcontroller firmware, or robotics platforms enhanced with machine learning.
+My work and interests span across <strong>Web Development</strong>, <strong>Robotics</strong>, <strong>Embedded Programming</strong> and integrating <strong>AI/ML into modern applications and robotic systems</strong>.  
+I’m passionate about developing intelligent, efficient and scalable systems—whether it’s a full-stack web solution, microcontroller firmware or robotics platforms enhanced with machine learning.
 </p>
 
 ---
