@@ -46,6 +46,15 @@ I’m passionate about developing intelligent, efficient, and scalable systems�
 
 ---
 
+### 🧬 AI & Machine Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn Logo"/>
+</div>
+
+---
+
 ### ☁️ Cloud, DevOps & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
