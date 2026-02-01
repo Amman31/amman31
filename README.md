@@ -41,7 +41,6 @@ I’m passionate about developing intelligent, efficient and scalable systems—
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/ROS_logo.svg" height="40" alt="ROS2 Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/STM32_logo.png" height="40" alt="STM32 Logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40"/>
 </div>
 
 ---
