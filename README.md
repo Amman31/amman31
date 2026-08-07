@@ -71,9 +71,9 @@ I’m passionate about developing intelligent, efficient and scalable systems—
 
 ## 🚀 Interests
 
-- Web Application Development  
 - Robotics & Autonomous Systems  
-- Embedded Firmware (STM32, C/C++)  
+- Embedded Systems and Software Development (STM32, C/C++)  
+- Web Application Development  
 - AI/ML for Intelligent & Adaptive Systems  
 - Cloud Engineering & DevOps Automation  
 - Cyber-physical systems & System Integration  
